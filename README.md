@@ -14,6 +14,5 @@ npm run serve
 ```
 npm run build
 ```
+![image](https://user-images.githubusercontent.com/98960675/165044662-85ba1d12-9090-45f0-89f0-b43a13865b5b.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
